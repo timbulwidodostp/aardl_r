@@ -1,6 +1,8 @@
 # aardl_r
 Augmented ARDL (Autoregressive Distributed Lag) Bounds Test (AARDL) Use aardl (ardlverse) With (In) R Software
 
+https://www.youtube.com/watch?v=M8yjFv9Cs10
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
